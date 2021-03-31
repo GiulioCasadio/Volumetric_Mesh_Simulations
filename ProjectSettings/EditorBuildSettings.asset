@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/FruitNinjaLike.unity
+    guid: 641b59d9a53ff3942969cd1e0812693a
+  - enabled: 1
+    path: Assets/Scenes/ShooterLike.unity
+    guid: de9678f93dabfad43bca51630afcf52d
+  - enabled: 1
+    path: Assets/Scenes/WallDestroyable.unity
+    guid: 47181e3b95302bd43b5a22a8b5aaf7d3
+  - enabled: 1
+    path: Assets/Scenes/WallUndestroyable.unity
+    guid: 0acadb0d1279fc04dafe109f6a1743f6
+  m_configObjects: {}
